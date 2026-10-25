@@ -16,8 +16,8 @@ L'objectif : construire de bout en bout un rapport décisionnel à partir de don
 
 | Fichier | Description |
 |---|---|
-| `Superstore_Analyse_Ventes.pbix` | Le rapport Power BI complet |
-| `Superstore_Analyse_Ventes.pdf` | Export PDF du rapport |
+| `Superstore-Analyse-Ventes.pbix` | Le rapport Power BI complet |
+| `Superstore-Analyse-Ventes.pdf` | Export PDF du rapport |
 | `captures/` | Captures d'écran des étapes clés |
 
 **Source des données :** [Superstore Dataset – Kaggle](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
